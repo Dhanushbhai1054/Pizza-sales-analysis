@@ -1,6 +1,5 @@
 # Pizza-sales-analysis
 Pizza Sales Analysis using SQL and Excel with a Dashboard
-# Pizza Sales Analysis
 
 ## Overview
 This project analyzes pizza sales data to extract insights and improve business performance. The analysis includes SQL queries, Excel dashboards, and KPI visualizations.
