@@ -42,5 +42,12 @@ The dashboard visualizes:
 2. Check `SQL_QUERIES_WITH_SNIPSHOTS.pdf` for the SQL analysis process.
 3. Refer to `PROBLEM STATEMENT.pdf` for the project's objectives.
 
+## Dashboard Preview
+
+Below is a preview of the interactive dashboard created for the pizza sales analysis:
+
+![Dashboard Preview](screenshots/dashboard_preview.png)
+
+
 ## Author
 **Venkata Sai Dhanush Miriyala**
