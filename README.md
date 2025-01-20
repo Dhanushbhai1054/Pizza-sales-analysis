@@ -46,7 +46,7 @@ The dashboard visualizes:
 
 Below is a preview of the interactive dashboard created for the pizza sales analysis:
 
-![Dashboard Preview]([screenshots/dashboard_preview.png](https://github.com/Dhanushbhai1054/Pizza-sales-analysis/blob/main/dashboard_preview.jpg))
+![Dashboard Preview]((https://github.com/Dhanushbhai1054/Pizza-sales-analysis/blob/main/dashboard_preview.jpg))
 
 
 ## Author
